@@ -22,7 +22,7 @@
 
 **订阅实体桌游物料电子资产：[https://pan.baidu.com/s/1x0aiz4nTghem9rvne0FDnQ?pwd=rvsy](https://pan.baidu.com/s/1x0aiz4nTghem9rvne0FDnQ?pwd=rvsy)（请使用[百度网盘](https://pan.baidu.com)下载）**
 
-本仓库提供**决战星海v5.0a 简体中文版**卡牌和信标版图的版面源码，符合[Card Conjurer](https://cardconjurer.com)格式。版面和版背插画均使用[即梦AI](https://jimeng.jianying.com)制作。
+本仓库提供**决战星海v5.0a 简体中文版**卡牌和信标版图的版面源码，符合[Card Conjurer](https://cardconjurer.com)格式。版面插画全部使用[即梦AI](https://jimeng.jianying.com)进行创作和修改。
 
 ---
 
