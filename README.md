@@ -1,17 +1,20 @@
 ![stellaris_scrimmage](assets/face_broad.png)
 
-# Stellaris Scrimmage v5.0a 简体中文版 - 决战星海
+# Stellaris Scrimmage v5.0a 简中文版 - 决战星海
 
 ![Author](https://img.shields.io/badge/Primary%20Author-CyannyPasiify-green)
 ![GitHub contributors](https://img.shields.io/github/contributors/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
 ![GitHub Repo stars](https://img.shields.io/github/stars/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN?style=social)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
 ![GitHub top language](https://img.shields.io/github/languages/top/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN?color=yellow)
 
-**订阅项目：https://memostudio.feishu.cn/docx/Xs9NdJ2MVoVjtfxRO2FcZZeKnqd**
+**订阅项目：[https://memostudio.feishu.cn/docx/Xs9NdJ2MVoVjtfxRO2FcZZeKnqd](https://memostudio.feishu.cn/docx/Xs9NdJ2MVoVjtfxRO2FcZZeKnqd)**
 
-**订阅电子桌游: https://steamcommunity.com/sharedfiles/filedetails/?id=3561425988（需要[Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator) on Steam）**
+**订阅电子桌游: [https://steamcommunity.com/sharedfiles/filedetails/?id=3561425988](https://steamcommunity.com/sharedfiles/filedetails/?id=3561425988)（需要[Tabletop Simulator](https://store.steampowered.com/app/286160/Tabletop_Simulator) on Steam）**
+
+**订阅实体桌游物料电子资产：[https://pan.baidu.com/s/1x0aiz4nTghem9rvne0FDnQ?pwd=rvsy](https://pan.baidu.com/s/1x0aiz4nTghem9rvne0FDnQ?pwd=rvsy)（请使用[百度网盘](https://pan.baidu.com)下载）**
 
 本仓库提供**决战星海v5.0a 简体中文版**卡牌和信标版图的版面源码，符合[Card Conjurer](https://cardconjurer.com)格式。版面和版背插画均使用[即梦AI](https://jimeng.jianying.com)制作。
 
