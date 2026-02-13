@@ -10,11 +10,9 @@
 
 ![Author](https://img.shields.io/badge/Primary%20Author-CyannyPasiify-green)
 ![GitHub contributors](https://img.shields.io/github/contributors/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
-![GitHub Repo stars](https://img.shields.io/github/stars/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN?style=social)
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
-![GitHub top language](https://img.shields.io/github/languages/top/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN?color=yellow)
+![GitHub Repo stars](https://img.shields.io/github/stars/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN?style=social)
 
 </div>
 
