@@ -1,4 +1,10 @@
+<div align="center">
+
 ![stellaris_scrimmage](assets/face_broad.png)
+
+</div>
+
+<div align="center">
 
 # Stellaris Scrimmage v5.0a 简中文版 - 决战星海
 
@@ -9,6 +15,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
 ![GitHub last commit](https://img.shields.io/github/last-commit/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
 ![GitHub top language](https://img.shields.io/github/languages/top/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN?color=yellow)
+
+</div>
 
 **订阅项目：[https://memostudio.feishu.cn/docx/Xs9NdJ2MVoVjtfxRO2FcZZeKnqd](https://memostudio.feishu.cn/docx/Xs9NdJ2MVoVjtfxRO2FcZZeKnqd)**
 
