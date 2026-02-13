@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# Stellaris Scrimmage v5.0a 简中文版 - 决战星海
+# Stellaris Scrimmage v5.0a 简体中文版 - 决战星海
 
 ![Author](https://img.shields.io/badge/Primary%20Author-CyannyPasiify-green)
 ![GitHub contributors](https://img.shields.io/github/contributors/CyannyPasiify/Stellaris-Scrimmage-v5.0-CN)
@@ -28,13 +28,15 @@
 
 ---
 
-- `card_templates`：
-  - `{类型ID}-{类型简称}-{类型全称}`：存放对应类型全部正面版面文件源码。
-    - `{类型ID}-{版ID}-{变体ID}-{名称}.json`：正面版面文件源码。JSON格式，适用于[Card Conjurer](https://cardconjurer.com)。
-  - `back_card`：存放全部类型的背面版面文件源码。
-    - `{类型ID}-back-{变体ID}.json`：背面版面文件源码。JSON格式，适用于[Card Conjurer](https://cardconjurer.com)。
-  - `mod_{类型全称}.cct`：各类型版面母版（Card Conjurer Template）源码，适用于[Card Conjurer](https://cardconjurer.com)。
-- `tutorials`：存放规则手册，提示版图和关键词图标映射表PDF文件。
+`card_templates`：
+
+- `{类型ID}-{类型简称}-{类型全称}`：存放对应类型全部正面版面文件源码。
+  - `{类型ID}-{版ID}-{变体ID}-{名称}.json`：正面版面文件源码。JSON格式，适用于[Card Conjurer](https://cardconjurer.com)。
+- `back_card`：存放全部类型的背面版面文件源码。
+  - `{类型ID}-back-{变体ID}.json`：背面版面文件源码。JSON格式，适用于[Card Conjurer](https://cardconjurer.com)。
+- `mod_{类型全称}.cct`：各类型版面母版（Card Conjurer Template）源码，适用于[Card Conjurer](https://cardconjurer.com)。
+
+`tutorials`：存放规则手册，提示版图和关键词图标映射表PDF文件。
 
 ---
 
